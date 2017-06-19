@@ -1,3 +1,4 @@
 #!/bin/bash
 
+
 java -cp "$(dirname $0)/../build/java" pl.edu.agh.tkk17.sample.Compiler "$@"
